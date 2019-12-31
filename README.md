@@ -4,4 +4,5 @@ An iOS application that allows users to create and animate images of their own d
 Created by Daniel Rencricca, December 2011
 
 
-![screen shot 1](images/Graphics/Screenshot1.jpg?raw=true "Title")
+![screen shot 1](images/Graphics/Screenshot1.jpg?raw=true "Drawing Canvas")
+![screen shot 2](images/Graphics/Screenshot2.jpg?raw=true "Animation Screen")
