@@ -4,4 +4,4 @@ An iOS application that allows users to create and animate images of their own d
 Created by Daniel Rencricca, December 2011
 
 
-![screen shot](images/path/to/img.jpg?raw=true "Title")
+![screen shot 1](images/Graphics/Screenshot1.jpg?raw=true "Title")
